@@ -1,0 +1,22 @@
+[
+    {
+        "address": "cx07ca892dc5cbe5c10ce1ed3df853cc5bd573b35d",
+        "name": "equToken"
+    },
+    {
+        "address": "cx1fe69fb48d32018bd944db9079d8fe9294176f84",
+        "name": "gaugeController"
+    },
+    {
+        "address": "cxd823489d64d498bef3dfe9f3c390f2b870ff0767",
+        "name": "minter"
+    },
+    {
+        "address": "cx6341b71970ced2e05ede087b81391ac8ce305d08",
+        "name": "veEquToken"
+    },
+    {
+        "address": "cx4d8d15b6b9e6678d33781c67453681e5c94835f7",
+        "name": "feesDistributor"
+    }
+]
