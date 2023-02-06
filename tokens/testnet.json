@@ -1,0 +1,60 @@
+[
+    {
+        "symbol": "IUSDC",
+        "decimals": 6,
+        "address": "cx9634be155fc77754c4b2e1bceddc1c63d973f1f3",
+        "price": 1,
+        "priceOptions": {
+            "fallbackPrice": 1,
+            "useCoingecko": true,
+            "currency": "USD"
+        },
+        "logo": "https://assets.coingecko.com/coins/images/18960/large/usdc.png?1634022069",
+        "coingeckoId": "icon-usdc",
+        "name": "IUSD Coin",
+        "oTokenAddress": "cxc2abbcbfdfd11a9bd88f983f28c761f7e10d4c2c"
+    },
+    {
+        "symbol": "USDS",
+        "decimals": 18,
+        "address": "cx313388571690e0f77546cf3885d37da1d40ff207",
+        "price": 1,
+        "priceOptions": {
+            "fallbackPrice": 1,
+            "useCoingecko": false,
+            "currency": "USD"
+        },
+        "logo": "https://assets.coingecko.com/coins/images/7596/large/Stably_USDS_-_Icon_%28Standard%29.png?1663824111",
+        "coingeckoId": "stableusd",
+        "name": "USD Stably",
+        "oTokenAddress": "cx9ed7ab98a1e9ea1d69a2d67a6f9b94a7fd831cd0"
+    },
+    {
+        "symbol": "bnUSD",
+        "decimals": 18,
+        "address": "cx87f7f8ceaa054d46ba7343a2ecd21208e12913c6",
+        "priceOptions": {
+            "fallbackPrice": 1,
+            "useCoingecko": true,
+            "currency": "USD"
+        },
+        "logo": "https://assets.coingecko.com/coins/images/18949/large/BD.png?1634010860",
+        "coingeckoId": "balanced-dollars",
+        "name": "Balanced USD",
+        "oTokenAddress": "cx02f5051566cb74bd5f251213095eadf5704a5933"
+    },
+    {
+        "symbol": "USDT",
+        "decimals": 18,
+        "address": "cxa6b9e978a309e19339c349b2ee5d75ae9ea55ddb",
+        "price": 1,
+        "priceOptions": {
+            "fallbackPrice": 1,
+            "useCoingecko": true,
+            "currency": "USD"
+        },
+        "logo": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1668148663",
+        "coingeckoId": "tether",
+        "name": "Tether USD"
+    }
+]
