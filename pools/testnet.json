@@ -9,53 +9,7 @@
         "lpAddress": "cx7c3126e8513614401f62181e91f78800f4e8cd4f",
         "gaugeAddress": "cx33a9a48dd6dc0a185bb2634867e335e11ca1e1e1",
         "proxyAddress": "cx26316bac4c0b67dd55495956029d506c8c48af3b",
-        "tokens": [
-            {
-                "symbol": "IUSDC",
-                "decimals": 6,
-                "address": "cx9634be155fc77754c4b2e1bceddc1c63d973f1f3",
-                "price": 1,
-                "priceOptions": {
-                    "fallbackPrice": 1,
-                    "useCoingecko": true,
-                    "currency": "USD"
-                },
-                "logo": "https://assets.coingecko.com/coins/images/18960/large/usdc.png?1634022069",
-                "coingeckoId": "icon-usdc",
-                "name": "IUSD Coin",
-                "oTokenAddress": "cxc2abbcbfdfd11a9bd88f983f28c761f7e10d4c2c"
-            },
-            {
-                "symbol": "USDS",
-                "decimals": 18,
-                "address": "cx313388571690e0f77546cf3885d37da1d40ff207",
-                "price": 1,
-                "priceOptions": {
-                    "fallbackPrice": 1,
-                    "useCoingecko": false,
-                    "currency": "USD"
-                },
-                "logo": "https://assets.coingecko.com/coins/images/7596/large/Stably_USDS_-_Icon_%28Standard%29.png?1663824111",
-                "coingeckoId": "stableusd",
-                "name": "USD Stably",
-                "oTokenAddress": "cx9ed7ab98a1e9ea1d69a2d67a6f9b94a7fd831cd0"
-            },
-            {
-                "symbol": "bnUSD",
-                "decimals": 18,
-                "address": "cx87f7f8ceaa054d46ba7343a2ecd21208e12913c6",
-                "price": 1,
-                "priceOptions": {
-                    "fallbackPrice": 1,
-                    "useCoingecko": true,
-                    "currency": "USD"
-                },
-                "logo": "https://assets.coingecko.com/coins/images/18949/large/BD.png?1634010860",
-                "coingeckoId": "balanced-dollars",
-                "name": "Balanced USD",
-                "oTokenAddress": "cx02f5051566cb74bd5f251213095eadf5704a5933"
-            }
-        ],
+        "tokens": ["IUSDC", "USDS", "bnUSD"],
         "color": "#4281FD"
     },
     {
@@ -68,52 +22,7 @@
         "lpAddress": "cx55d8c3645692a10fa0b04fd73fb16bc06cf6d9d8",
         "gaugeAddress": "cxd853bd77551b04be97326bc7112b647fc3372993",
         "proxyAddress": "cx50283001ec05ade3a1650c4a55e90997b20e9d5b",
-        "tokens": [
-            {
-                "symbol": "IUSDC",
-                "decimals": 6,
-                "address": "cx9634be155fc77754c4b2e1bceddc1c63d973f1f3",
-                "price": 1,
-                "priceOptions": {
-                    "fallbackPrice": 1,
-                    "useCoingecko": true,
-                    "currency": "USD"
-                },
-                "logo": "https://assets.coingecko.com/coins/images/18960/large/usdc.png?1634022069",
-                "coingeckoId": "icon-usdc",
-                "name": "IUSD Coin",
-                "oTokenAddress": "cxc2abbcbfdfd11a9bd88f983f28c761f7e10d4c2c"
-            },
-            {
-                "symbol": "USDT",
-                "decimals": 18,
-                "address": "cxa6b9e978a309e19339c349b2ee5d75ae9ea55ddb",
-                "price": 1,
-                "priceOptions": {
-                    "fallbackPrice": 1,
-                    "useCoingecko": true,
-                    "currency": "USD"
-                },
-                "logo": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1668148663",
-                "coingeckoId": "tether",
-                "name": "Tether USD"
-            },
-            {
-                "symbol": "USDS",
-                "decimals": 18,
-                "address": "cx313388571690e0f77546cf3885d37da1d40ff207",
-                "price": 1,
-                "priceOptions": {
-                    "fallbackPrice": 1,
-                    "useCoingecko": false,
-                    "currency": "USD"
-                },
-                "logo": "https://assets.coingecko.com/coins/images/7596/large/Stably_USDS_-_Icon_%28Standard%29.png?1663824111",
-                "coingeckoId": "stableusd",
-                "name": "USD Stably",
-                "oTokenAddress": "cx9ed7ab98a1e9ea1d69a2d67a6f9b94a7fd831cd0"
-            }
-        ],
+        "tokens": ["IUSDC", "USDT", "USDS"],
         "color": "#76d14f"
     }
 ]
