@@ -14,7 +14,8 @@
                 "symbol": "IUSDC",
                 "decimals": 6,
                 "address": "cx9634be155fc77754c4b2e1bceddc1c63d973f1f3",
-                "price": {
+                "price": 1,
+                "priceOptions": {
                     "fallbackPrice": 1,
                     "useCoingecko": true,
                     "currency": "USD"
@@ -28,7 +29,8 @@
                 "symbol": "USDS",
                 "decimals": 18,
                 "address": "cx313388571690e0f77546cf3885d37da1d40ff207",
-                "price": {
+                "price": 1,
+                "priceOptions": {
                     "fallbackPrice": 1,
                     "useCoingecko": false,
                     "currency": "USD"
@@ -42,7 +44,8 @@
                 "symbol": "bnUSD",
                 "decimals": 18,
                 "address": "cx87f7f8ceaa054d46ba7343a2ecd21208e12913c6",
-                "price": {
+                "price": 1,
+                "priceOptions": {
                     "fallbackPrice": 1,
                     "useCoingecko": true,
                     "currency": "USD"
@@ -70,7 +73,8 @@
                 "symbol": "IUSDC",
                 "decimals": 6,
                 "address": "cx9634be155fc77754c4b2e1bceddc1c63d973f1f3",
-                "price": {
+                "price": 1,
+                "priceOptions": {
                     "fallbackPrice": 1,
                     "useCoingecko": true,
                     "currency": "USD"
@@ -84,7 +88,8 @@
                 "symbol": "USDT",
                 "decimals": 18,
                 "address": "cxa6b9e978a309e19339c349b2ee5d75ae9ea55ddb",
-                "price": {
+                "price": 1,
+                "priceOptions": {
                     "fallbackPrice": 1,
                     "useCoingecko": true,
                     "currency": "USD"
@@ -97,7 +102,8 @@
                 "symbol": "USDS",
                 "decimals": 18,
                 "address": "cx313388571690e0f77546cf3885d37da1d40ff207",
-                "price": {
+                "price": 1,
+                "priceOptions": {
                     "fallbackPrice": 1,
                     "useCoingecko": false,
                     "currency": "USD"
