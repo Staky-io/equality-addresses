@@ -1,28 +1,15 @@
 [
     {
-        "poolAddress": "cx0b35fda628db1952ed453e85811549d23bbe6c5d",
-        "burnerAddress": "cxee925f9377edfee8b24ae5fbb270a7a96692e03c",
-        "adapterAddress": "cx8a2f0f0a9124f2ce917c4ae0912162ea3818e8b7",
-        "feeDistributorAddress": "cx4d8d15b6b9e6678d33781c67453681e5c94835f7",
+        "poolAddress": "cx9b8a7a40175320dc86cf709f8ff6c02dff45203b",
+        "burnerAddress": "cxb9d3ed5120db19f09d614ae8c62a4af018ab462b",
+        "adapterAddress": "cxef7e614b669733f5edee6d1b825cac57508b8a1b",
+        "feeDistributorAddress": "cx355f8fd62adaee0e64deb705ca3b06e13b6a9108",
         "name": "basepool",
         "lpName": "3Pool-LPT",
-        "lpAddress": "cx7c3126e8513614401f62181e91f78800f4e8cd4f",
-        "gaugeAddress": "cx33a9a48dd6dc0a185bb2634867e335e11ca1e1e1",
-        "proxyAddress": "cx26316bac4c0b67dd55495956029d506c8c48af3b",
+        "lpAddress": "cx97aabe93a4d5e43a2c844b756c28443a702ed4a1",
+        "gaugeAddress": "cxff54562939d9d35c78dc032e71ac5300b7326403",
+        "proxyAddress": "cx3510d2e03acea7192e1cc9665bc110e597904db4",
         "tokens": ["IUSDC", "USDS", "bnUSD"],
         "color": "#4281FD"
-    },
-    {
-        "poolAddress": "cx616a72a22f7c60023a0b9e5e49f0c3ad9e8be292",
-        "burnerAddress": "cx958ce0dd634127d76ef2eefc66ecae51bf603b13",
-        "adapterAddress": "cx3a2d23543b1a8e9687b04d7d676f6a97d56cc36f",
-        "feeDistributorAddress": "cxe5fc34c47748175456ccc8a149410b964b4bafc0",
-        "name": "mixed",
-        "lpName": "MXD-LPT",
-        "lpAddress": "cx55d8c3645692a10fa0b04fd73fb16bc06cf6d9d8",
-        "gaugeAddress": "cxd853bd77551b04be97326bc7112b647fc3372993",
-        "proxyAddress": "cx50283001ec05ade3a1650c4a55e90997b20e9d5b",
-        "tokens": ["IUSDC", "USDT", "USDS"],
-        "color": "#76d14f"
     }
 ]

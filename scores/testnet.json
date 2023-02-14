@@ -1,18 +1,18 @@
 [
     {
-        "address": "cx07ca892dc5cbe5c10ce1ed3df853cc5bd573b35d",
+        "address": "cx55456479a18f8bb672d92f370845af6c7b791777",
         "name": "equToken"
     },
     {
-        "address": "cx1fe69fb48d32018bd944db9079d8fe9294176f84",
+        "address": "cx4f44d910d28d26c16f21bff6f7b61b5f73cb5e16",
         "name": "gaugeController"
     },
     {
-        "address": "cxd823489d64d498bef3dfe9f3c390f2b870ff0767",
+        "address": "cx34ec750901de765a133ff1ace07a86b954d428b9",
         "name": "minter"
     },
     {
-        "address": "cx6341b71970ced2e05ede087b81391ac8ce305d08",
+        "address": "cxa9fdb74faf422280daad257286434b9243419bfb",
         "name": "veEquToken"
     },
     {

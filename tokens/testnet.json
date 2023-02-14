@@ -2,7 +2,7 @@
     {
         "symbol": "IUSDC",
         "decimals": 6,
-        "address": "cx9634be155fc77754c4b2e1bceddc1c63d973f1f3",
+        "address": "cx18e04b69283f2248aa4820b45e456a90056e80e0",
         "price": 1,
         "priceOptions": {
             "fallbackPrice": 1,
@@ -17,7 +17,7 @@
     {
         "symbol": "USDS",
         "decimals": 18,
-        "address": "cx313388571690e0f77546cf3885d37da1d40ff207",
+        "address": "cx83c2ab93d13fe80d11eb622cb768c75ed76ef304",
         "price": 1,
         "priceOptions": {
             "fallbackPrice": 1,
@@ -32,7 +32,7 @@
     {
         "symbol": "bnUSD",
         "decimals": 18,
-        "address": "cx87f7f8ceaa054d46ba7343a2ecd21208e12913c6",
+        "address": "cxfcf87c30ab03e32bfb709c0c1825f616edf35ee1",
         "priceOptions": {
             "fallbackPrice": 1,
             "useCoingecko": true,
