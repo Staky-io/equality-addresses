@@ -11,8 +11,7 @@
         },
         "logo": "https://assets.coingecko.com/coins/images/18960/large/usdc.png?1634022069",
         "coingeckoId": "icon-usdc",
-        "name": "IUSD Coin",
-        "oTokenAddress": "cxc2abbcbfdfd11a9bd88f983f28c761f7e10d4c2c"
+        "name": "IUSD Coin"
     },
     {
         "symbol": "USDS",
@@ -26,8 +25,7 @@
         },
         "logo": "https://assets.coingecko.com/coins/images/7596/large/Stably_USDS_-_Icon_%28Standard%29.png?1663824111",
         "coingeckoId": "stableusd",
-        "name": "USD Stably",
-        "oTokenAddress": "cx9ed7ab98a1e9ea1d69a2d67a6f9b94a7fd831cd0"
+        "name": "USD Stably"
     },
     {
         "symbol": "bnUSD",
@@ -40,8 +38,7 @@
         },
         "logo": "https://assets.coingecko.com/coins/images/18949/large/BD.png?1634010860",
         "coingeckoId": "balanced-dollars",
-        "name": "Balanced USD",
-        "oTokenAddress": "cx02f5051566cb74bd5f251213095eadf5704a5933"
+        "name": "Balanced USD"
     },
     {
         "symbol": "USDT",
