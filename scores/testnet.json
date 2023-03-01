@@ -14,9 +14,5 @@
     {
         "address": "cxa9fdb74faf422280daad257286434b9243419bfb",
         "name": "veEquToken"
-    },
-    {
-        "address": "cx4d8d15b6b9e6678d33781c67453681e5c94835f7",
-        "name": "feesDistributor"
     }
 ]
