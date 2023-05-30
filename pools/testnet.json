@@ -17,15 +17,15 @@
         "color": "#4281FD"
     },
     {
-        "poolAddress": "cxfb7f47a57bd2200ee929749fe729cc4aff8fa199",
-        "burnerAddress": "cx1d25febce4b46308912868f35dc9a9ac4ba9f42f",
-        "adapterAddress": "cxad70784749a0acab779f72d9bd4f2c1bb83775c4",
-        "feeDistributorAddress": "cxc6c8000afd8f9116f90956d678670655ee29b0fb",
+        "poolAddress": "cxcd29f015f43f5b59d61a3cc1520928d902c19b03",
+        "burnerAddress": "cx3b1396fbb0fe0281a4607c37184c29ab6a611535",
+        "adapterAddress": "cx1560256daa6b3fbc57fb91a0d4ee6bdf6c9065c7",
+        "feeDistributorAddress": "cx76842f45dc3a7ec8dc7702f824a09075402b3304",
         "name": "ESS-3Pool",
         "lpName": "ESS-3P-LPT",
-        "lpAddress": "cx03eed3dafb8dfe2974b41a9be145d7c72a28ff98",
-        "gaugeAddress": "cxfe9f89833b08b14bcd983de108fe7e947bdcd861",
-        "proxyAddress": "cx1d25febce4b46308912868f35dc9a9ac4ba9f42f",
+        "lpAddress": "cxb165c4fdb5cc4dcae8539b93532f44d3432daa89",
+        "gaugeAddress": "cx3ac3cf68b2248f0c704646e7958b7559965d1083",
+        "proxyAddress": "cxff945847736aa6edb91273ca104334ca44136ea9",
         "tokens": [
             "cx185ac6fe255c34aa2ff9300c24dbe2e6d4cfa10b",
             "cxaaeacedb01edf5ca295765172e168ae9a360e58d",
