@@ -9,7 +9,11 @@
         "lpAddress": "cx97aabe93a4d5e43a2c844b756c28443a702ed4a1",
         "gaugeAddress": "cxff54562939d9d35c78dc032e71ac5300b7326403",
         "proxyAddress": "cx3510d2e03acea7192e1cc9665bc110e597904db4",
-        "tokens": ["IUSDC", "USDS", "bnUSD"],
+        "tokens": [
+            "cx18e04b69283f2248aa4820b45e456a90056e80e0",
+            "cx83c2ab93d13fe80d11eb622cb768c75ed76ef304",
+            "cxfcf87c30ab03e32bfb709c0c1825f616edf35ee1"
+        ],
         "color": "#4281FD"
     },
     {
@@ -22,7 +26,11 @@
         "lpAddress": "cx03eed3dafb8dfe2974b41a9be145d7c72a28ff98",
         "gaugeAddress": "cxfe9f89833b08b14bcd983de108fe7e947bdcd861",
         "proxyAddress": "cx1d25febce4b46308912868f35dc9a9ac4ba9f42f",
-        "tokens": ["eUSDC", "eUSDT", "bnUSD"],
+        "tokens": [
+            "cx185ac6fe255c34aa2ff9300c24dbe2e6d4cfa10b",
+            "cxaaeacedb01edf5ca295765172e168ae9a360e58d",
+            "cxfcf87c30ab03e32bfb709c0c1825f616edf35ee1"
+        ],
         "color": "#10E5A5"
     }
 ]
