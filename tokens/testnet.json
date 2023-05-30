@@ -5,7 +5,7 @@
         "address": "cx18e04b69283f2248aa4820b45e456a90056e80e0",
         "priceOptions": {
             "fallbackPrice": 1,
-            "useCoingecko": true,
+            "useCoingecko": false,
             "coingeckoId": "icon-usdc",
             "currency": "USD"
         },
@@ -29,7 +29,7 @@
         "address": "cxfcf87c30ab03e32bfb709c0c1825f616edf35ee1",
         "priceOptions": {
             "fallbackPrice": 1,
-            "useCoingecko": true,
+            "useCoingecko": false,
             "coingeckoId": "balanced-dollars",
             "currency": "USD"
         },
@@ -41,7 +41,7 @@
         "address": "cxa6b9e978a309e19339c349b2ee5d75ae9ea55ddb",
         "priceOptions": {
             "fallbackPrice": 1,
-            "useCoingecko": true,
+            "useCoingecko": false,
             "coingeckoId": "tether",
             "currency": "USD"
         },
