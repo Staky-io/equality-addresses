@@ -3,28 +3,24 @@
         "symbol": "IUSDC",
         "decimals": 6,
         "address": "cx18e04b69283f2248aa4820b45e456a90056e80e0",
-        "price": 1,
         "priceOptions": {
             "fallbackPrice": 1,
             "useCoingecko": true,
+            "coingeckoId": "icon-usdc",
             "currency": "USD"
         },
-        "logo": "https://assets.coingecko.com/coins/images/18960/large/usdc.png?1634022069",
-        "coingeckoId": "icon-usdc",
         "name": "IUSD Coin"
     },
     {
         "symbol": "USDS",
         "decimals": 18,
         "address": "cx83c2ab93d13fe80d11eb622cb768c75ed76ef304",
-        "price": 1,
         "priceOptions": {
             "fallbackPrice": 1,
             "useCoingecko": false,
+            "coingeckoId": "",
             "currency": "USD"
         },
-        "logo": "https://assets.coingecko.com/coins/images/7596/large/Stably_USDS_-_Icon_%28Standard%29.png?1663824111",
-        "coingeckoId": "stableusd",
         "name": "USD Stably"
     },
     {
@@ -34,24 +30,45 @@
         "priceOptions": {
             "fallbackPrice": 1,
             "useCoingecko": true,
+            "coingeckoId": "balanced-dollars",
             "currency": "USD"
         },
-        "logo": "https://assets.coingecko.com/coins/images/18949/large/BD.png?1634010860",
-        "coingeckoId": "balanced-dollars",
         "name": "Balanced USD"
     },
     {
         "symbol": "USDT",
         "decimals": 18,
         "address": "cxa6b9e978a309e19339c349b2ee5d75ae9ea55ddb",
-        "price": 1,
         "priceOptions": {
             "fallbackPrice": 1,
             "useCoingecko": true,
+            "coingeckoId": "tether",
             "currency": "USD"
         },
-        "logo": "https://assets.coingecko.com/coins/images/325/large/Tether.png?1668148663",
-        "coingeckoId": "tether",
         "name": "Tether USD"
+    },
+    {
+        "symbol": "eUSDT",
+        "decimals": 18,
+        "address": "cxaaeacedb01edf5ca295765172e168ae9a360e58d",
+        "priceOptions": {
+            "fallbackPrice": 1,
+            "useCoingecko": false,
+            "coingeckoId": "",
+            "currency": "USD"
+        },
+        "name": "Equality USDT"
+    },
+    {
+        "symbol": "eUSDC",
+        "decimals": 18,
+        "address": "cx185ac6fe255c34aa2ff9300c24dbe2e6d4cfa10b",
+        "priceOptions": {
+            "fallbackPrice": 1,
+            "useCoingecko": false,
+            "coingeckoId": "",
+            "currency": "USD"
+        },
+        "name": "Equality USDC"
     }
 ]

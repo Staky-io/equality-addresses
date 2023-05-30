@@ -1,7 +1,12 @@
 [
     {
         "name": "eUSDC",
-        "fundAddress": "cx53b607962e9c603bc60d6c24b925ac8200f70c73",
-        "tokenAddress": "cx9d0654e249d827496d628963576eb7323361ed82"
+        "fundAddress": "cx79f7f3b4192f03d52ff2f8665f06eede76c225b0",
+        "tokenAddress": "cx185ac6fe255c34aa2ff9300c24dbe2e6d4cfa10b"
+    },
+    {
+        "name": "eUSDT",
+        "fundAddress": "cxcc79664873d7ae082e5476e91236d2deb14bd419",
+        "tokenAddress": "cxaaeacedb01edf5ca295765172e168ae9a360e58d"
     }
 ]

@@ -11,5 +11,18 @@
         "proxyAddress": "cx3510d2e03acea7192e1cc9665bc110e597904db4",
         "tokens": ["IUSDC", "USDS", "bnUSD"],
         "color": "#4281FD"
+    },
+    {
+        "poolAddress": "cxfb7f47a57bd2200ee929749fe729cc4aff8fa199",
+        "burnerAddress": "cx1d25febce4b46308912868f35dc9a9ac4ba9f42f",
+        "adapterAddress": "cxad70784749a0acab779f72d9bd4f2c1bb83775c4",
+        "feeDistributorAddress": "cxc6c8000afd8f9116f90956d678670655ee29b0fb",
+        "name": "ESS-3Pool",
+        "lpName": "ESS-3P-LPT",
+        "lpAddress": "cx03eed3dafb8dfe2974b41a9be145d7c72a28ff98",
+        "gaugeAddress": "cxfe9f89833b08b14bcd983de108fe7e947bdcd861",
+        "proxyAddress": "cx1d25febce4b46308912868f35dc9a9ac4ba9f42f",
+        "tokens": ["eUSDC", "eUSDT", "bnUSD"],
+        "color": "#10E5A5"
     }
 ]
